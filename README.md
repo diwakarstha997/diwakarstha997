@@ -1,105 +1,19 @@
-<h1 align="center">Hi <img src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/Hi.gif" width="28px"/>, I'm Diwakar Shrestha</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=diwakarstha997&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Fullstack Developer
-  <a href="https://">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+<h1 align="center">Hi 👋, I'm Diwakar Shrestha</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakarstha997&label=Profile%20views&color=0e75b6&style=flat" alt="diwakarstha997" /> </p>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-VIT-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-overall B with 75%-EFEEE9?style=for-the-badge"></span>
- </details>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwakarstha997" alt="diwakarstha997" /></a> </p>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
- </details>
-</details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/diwakarstha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diwakarstha/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/diwakarshrestha45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diwakarshrestha45" height="30" width="40" /></a>
+</p>
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakarstha997&show_icons=true&locale=en&layout=compact" alt="diwakarstha997" /></p>
 
-  #### <a href="https://github.com/diwakarstha997/[Project-Name]">[Project Name]</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
-  - Implemented features to notify users about new opportunities.
-  - Achieved a user base of X, surpassing initial projections.
-</details>
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=diwakarstha997&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=diwakarstha997&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarstha997&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=diwakarstha997&theme=tokyo-night)
-  </div>
-</details>
-
- ### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
-
-  </div>
-
-  ### Codeforces
-  <div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourUsername)
-
-  </div>
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/diwakarstha997/diwakarstha997/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
-  </div>
-</details>
-
-### ✅ Merged PRs
-<!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
-<!--Finish Count Merged PRs-->
-
-<!--Start Merged PRs-->
-1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-<!--Finish Merged PRs-->
-
-### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-<!--END_SECTION:activity-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakarstha997&show_icons=true&locale=en" alt="diwakarstha997" /></p>
