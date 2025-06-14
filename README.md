@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diwakar Shrestha</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakarstha997&label=Profile%20views&color=0e75b6&style=flat" alt="diwakarstha997" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwakarstha997" alt="diwakarstha997" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
